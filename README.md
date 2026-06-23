@@ -52,7 +52,7 @@
 
 ## 주요 링크
 
-- Google Drive 최상위 폴더: `TODO: Google Drive 폴더 링크 입력`
+- Google Drive 최상위 폴더: [https://drive.google.com/drive/folders/1PHHgRADxi7otdn5VYH2kYvPF-RUvmLLR?usp=drive_link](https://drive.google.com/drive/folders/1PHHgRADxi7otdn5VYH2kYvPF-RUvmLLR?usp=drive_link)
 - Figma 프로젝트: `TODO: Figma 프로젝트 링크 입력`
 - GitHub repository: https://github.com/pababark21-kr/term_prj01
 
