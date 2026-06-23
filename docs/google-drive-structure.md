@@ -29,4 +29,5 @@ TermProject_A_UIUX/
 
 ## 최상위 폴더 링크
 
-- Google Drive 최상위 폴더: `TODO: Google Drive 폴더 링크 입력`
+- Google Drive 최상위 폴더: [https://drive.google.com/drive/folders/1PHHgRADxi7otdn5VYH2kYvPF-RUvmLLR?usp=drive_link](https://drive.google.com/drive/folders/1PHHgRADxi7otdn5VYH2kYvPF-RUvmLLR?usp=drive_link)
+- Google Drive 최종 제출 폴더: [https://drive.google.com/drive/folders/1fpIUzg5_nvZ_OEuhATlYPpR6v_xC-lAz?usp=drive_link](https://drive.google.com/drive/folders/1fpIUzg5_nvZ_OEuhATlYPpR6v_xC-lAz?usp=drive_link)

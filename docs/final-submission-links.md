@@ -4,7 +4,7 @@
 
 | 항목 | 링크 | 비고 |
 | --- | --- | --- |
-| Google Drive 최종 제출 폴더 | `TODO: Google Drive 최종 제출 폴더 링크` | 99_최종제출 폴더 |
+| Google Drive 최종 제출 폴더 | [https://drive.google.com/drive/folders/1fpIUzg5_nvZ_OEuhATlYPpR6v_xC-lAz?usp=drive_link](https://drive.google.com/drive/folders/1fpIUzg5_nvZ_OEuhATlYPpR6v_xC-lAz?usp=drive_link) | 99_최종제출 폴더 |
 | Figma 프로젝트 | `TODO: Figma 프로젝트 링크` | 공유 권한 확인 필요 |
 | UI 이미지 최종본 1 | `TODO` | 메인 화면 |
 | UI 이미지 최종본 2 | `TODO` | 목록 화면 |
