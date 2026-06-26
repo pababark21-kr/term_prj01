@@ -9,7 +9,7 @@
 | 냉장고 파먹기 Figma 프로젝트 | [http://figma.com/proto/LJFKOHqUG00vgMj6fH9IuI/코디세이-냉장고파먹기-UI-UX?node-id=0-1&p=f&t=rsnmc3vy4TyHLBKn-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1](http://figma.com/proto/LJFKOHqUG00vgMj6fH9IuI/코디세이-냉장고파먹기-UI-UX?node-id=0-1&p=f&t=rsnmc3vy4TyHLBKn-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1) | Issue #9 확인 |
 | EcoTrack Google Drive 작업 폴더 | [https://drive.google.com/drive/folders/14tOj4EDEhaRnMjUonvApF61GRrA-u9lC?usp=drive_link](https://drive.google.com/drive/folders/14tOj4EDEhaRnMjUonvApF61GRrA-u9lC?usp=drive_link) | Issue #11 확인 |
 | EcoTrack Figma 프로젝트 | [https://www.figma.com/proto/pHGvnVBnICRnUSsf75zrTN/EcoTrack-UI-UX-%EC%98%81%EB%AC%B8-?node-id=1-101&p=f&t=8LaMHqZXVleRr3wg-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1](https://www.figma.com/proto/pHGvnVBnICRnUSsf75zrTN/EcoTrack-UI-UX-%EC%98%81%EB%AC%B8-?node-id=1-101&p=f&t=8LaMHqZXVleRr3wg-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1) | Issue #11 확인 |
-| 피그마 프로젝트 결과물 원본 파일 위치 | [https://github.com/pababark21-kr/term_prj01/blob/main/assets/figma/EcoTrack%20UI%2BUX%28%EC%98%81%EB%AC%B8%29.fig](https://github.com/pababark21-kr/term_prj01/blob/main/assets/figma/EcoTrack%20UI%2BUX%28%EC%98%81%EB%AC%B8%29.fig) | 원본 파일 |
+| 피그마 프로젝트 결과물 원본 파일 위치 | [https://github.com/pababark21-kr/term_prj01/tree/main/assets/figma](https://github.com/pababark21-kr/term_prj01/tree/main/assets/figma) | 원본 파일 |
 | UI 이미지 최종본 1 | N/A | 메인 화면 |
 | UI 이미지 최종본 2 | N/A | 목록 화면 |
 | UI 이미지 최종본 3 | N/A | 상세 화면 |
