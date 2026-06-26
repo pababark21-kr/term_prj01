@@ -117,6 +117,6 @@
 | --- | --- | --- | --- | --- |
 | 냉장고 파먹기 작업 Issue | https://github.com/pababark21-kr/term_prj01/issues/9 | 서비스 기획, 프롬프트, 결과 링크 확인 | 냉장고 파먹기 문서화 | 예 |
 | EcoTrack 작업 Issue | https://github.com/pababark21-kr/term_prj01/issues/11 | 결과물 Drive/Figma 링크 확인 | EcoTrack 문서화 | 예 |
-| Claude Opus 4.8 | N/A | 냉장고 파먹기 기획 및 프롬프트 작성 보조 | 프롬프트 초안/개선 | 예 |
-| GPT Image 2 | N/A | 냉장고 파먹기 이미지 생성 도구 | UI 이미지 생성 | 예 |
-| EcoTrack 이미지 생성 도구 | N/A | 명시 정보 없음 | EcoTrack UI 이미지 생성 | 예 |
+| Claude Opus 4.8 | 모델명 기록 | 냉장고 파먹기 기획 및 프롬프트 작성 보조 | 프롬프트 초안/개선 | 예 |
+| GPT Image 2 | 모델명 기록 | 냉장고 파먹기 이미지 생성 도구 | UI 이미지 생성 | 예 |
+| EcoTrack 이미지 생성 도구 | 확인 불가 | 명시 정보 없음 | EcoTrack UI 이미지 생성 | 예 |
