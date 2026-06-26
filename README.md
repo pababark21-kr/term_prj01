@@ -1,5 +1,28 @@
 # Codyssey Term Project A
 
+## 최종평가 확인용 요약
+
+- 최종 제출 대상: **냉장고 파먹기 / fridge-chef**
+- 서비스 한 줄 설명: 냉장고 속 재료를 기반으로 레시피를 추천하고, 부족 재료를 장보기 행동으로 연결하는 모바일 UI/UX 시안
+- Figma 프로토타입: [코디세이-냉장고파먹기 프로토타입 보기](http://figma.com/proto/LJFKOHqUG00vgMj6fH9IuI/코디세이-냉장고파먹기-UI-UX?node-id=0-1&p=f&t=rsnmc3vy4TyHLBKn-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+- 작업 로그: [docs/fridge-chef-work-log.md](docs/fridge-chef-work-log.md)
+- 평가 대응표: [docs/evaluation-index.md](docs/evaluation-index.md)
+- 종합 작업 로그: [docs/work-log.md](docs/work-log.md)
+- 프롬프트 로그: [docs/prompt-log.md](docs/prompt-log.md)
+- 디자인 의사결정 기록: [docs/design-decision-log.md](docs/design-decision-log.md)
+- 참고/보조 시안: EcoTrack은 최종 제출물이 아니라 참고/보조 시안으로만 관리합니다.
+
+### 최종 UI 이미지
+
+#### 1. 메인 화면
+![냉장고 파먹기 메인 화면](assets/final-ui/01-main-screen.jpg)
+
+#### 2. 목록 화면
+![냉장고 파먹기 목록 화면](assets/final-ui/02-list-screen.jpg)
+
+#### 3. 상세 화면
+![냉장고 파먹기 상세 화면](assets/final-ui/03-detail-screen.jpg)
+
 ## 프로젝트 목적
 
 이 저장소는 `[Project A] AI 기반 UI/UX 디자인 시안 제작` 팀 과제를 관리하기 위한 작업 공간입니다. GitHub에서는 작업 과정, 문서, 체크리스트, 프롬프트 로그, 최종 링크를 관리하고, 실제 이미지 원본과 대용량 산출물은 Google Drive에 보관합니다.
@@ -45,6 +68,8 @@
 - [디자인 의사결정 기록](docs/design-decision-log.md)
 - [최종 검수 체크리스트](docs/qa-checklist.md)
 - [최종 제출 링크](docs/final-submission-links.md)
+- [평가 기준 대응표](docs/evaluation-index.md)
+- [종합 작업 로그](docs/work-log.md)
 - [Google Drive 폴더 구조](docs/google-drive-structure.md)
 - [Figma 작업 가이드](docs/figma-guide.md)
 - [회의록 템플릿](docs/meeting-notes.md)
@@ -53,16 +78,15 @@
 ## 주요 링크
 
 - Google Drive 최상위 폴더: [https://drive.google.com/drive/folders/1PHHgRADxi7otdn5VYH2kYvPF-RUvmLLR?usp=drive_link](https://drive.google.com/drive/folders/1PHHgRADxi7otdn5VYH2kYvPF-RUvmLLR?usp=drive_link)
-- Figma 프로젝트: `TODO: Figma 프로젝트 링크 입력`
+- Figma 프로젝트: [코디세이-냉장고파먹기 프로토타입 보기](http://figma.com/proto/LJFKOHqUG00vgMj6fH9IuI/코디세이-냉장고파먹기-UI-UX?node-id=0-1&p=f&t=rsnmc3vy4TyHLBKn-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 - GitHub repository: https://github.com/pababark21-kr/term_prj01
 
 ## 최종 제출 전 확인사항
 
-- [ ] UI 디자인 이미지가 3장 이상 준비되었는가?
-- [ ] 메인, 목록, 상세 등 화면 역할이 구분되는가?
-- [ ] PNG 또는 JPG 형식으로 최종본을 저장했는가?
-- [ ] 이미지 속 텍스트 깨짐을 수정했는가?
-- [ ] 프롬프트 초안, 수정, 최종 과정이 기록되었는가?
-- [ ] Figma에 화면 흐름과 Hotspot 또는 전환 흐름을 표시했는가?
-- [ ] Google Drive 최종 제출 폴더가 정리되었는가?
-- [ ] README와 final-submission-links.md에 최종 링크를 반영했는가?
+- [x] UI 디자인 이미지가 3장 이상 준비되었는가?
+- [x] 메인, 목록, 상세 등 화면 역할이 구분되는가?
+- [x] PNG 또는 JPG 형식으로 최종본을 저장했는가?
+- [x] 이미지 속 텍스트 깨짐을 수정했는가?
+- [x] 프롬프트 초안, 수정, 최종 과정이 기록되었는가?
+- [x] Figma에 화면 흐름과 Hotspot 또는 전환 흐름을 표시했는가?
+- [x] README와 final-submission-links.md에 최종 링크를 반영했는가?
